@@ -25,8 +25,8 @@ Maybe use python visualization tools?
 
 # Finished Product
 This is what I see will be the finished product as of 7/19/2022
-A tool that will let you see a player's historical stats and production
-A tool that will generate drive level stats for each team
-A tool that will let you compare your team's weekly projected points based off of who that player is playing against by comparing their production v. the opposing team's offensive/defensive statistics generated from following along the youtube video above.
+- A tool that will let you see a player's historical stats and production
+- A tool that will generate drive level stats for each team
+- A tool that will let you compare your team's weekly projected points based off of who that player is playing against by comparing their production v. the opposing team's offensive/defensive statistics generated from following along the youtube video above.
 
-This could be 2 separate tools: one for fantasy football one for betting on games
+<strong>Note</strong> : This could be 2 separate tools: one for fantasy football one for betting on games
