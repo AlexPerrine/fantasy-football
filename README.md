@@ -16,11 +16,11 @@ Getting historical NFL data to try and win my fantasy football league.
    - Use this to set weekly lineups
 
 
-Things I want to do:
-Store the data collected in the cloud (AWS or GCP)
-Hook dbt up to the data for model creation
-Connect to an API for data pulling
-Maybe use python visualization tools?
+### Things I want to do:
+- Store the data collected in the cloud (AWS or GCP)
+- Hook dbt up to the data for model creation
+- Connect to an API for data pulling
+- Maybe use python visualization tools?
 
 
 # Finished Product
